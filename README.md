@@ -1,4 +1,4 @@
-# SimpleBase64.luau
+# SimpleBase64
 
 Lightweight Base64 implementation for Luau (Roblox) using Roblox's buffer type.
 
